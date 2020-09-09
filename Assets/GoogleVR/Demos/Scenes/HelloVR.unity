@@ -777,7 +777,6 @@ GameObject:
   m_Component:
   - component: {fileID: 839718221}
   - component: {fileID: 839718220}
-  - component: {fileID: 839718222}
   m_Layer: 0
   m_Name: Scena
   m_TagString: Untagged
@@ -817,19 +816,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &839718222
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 839718219}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e4a4bf6035c40da409aa843ddcf0d292, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  camera: {fileID: 959308592}
 --- !u!1001 &848404732
 PrefabInstance:
   m_ObjectHideFlags: 0
